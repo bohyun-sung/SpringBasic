@@ -28,9 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d895c77-89c0-4372-936e-945cd2e13af3" name="Default Changelist" comment="커밋테스트">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d895c77-89c0-4372-936e-945cd2e13af3" name="Default Changelist" comment="커밋테스트" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,13 +50,6 @@
         </projects_view>
       </state>
     </system>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -173,7 +164,7 @@
       <workItem from="1756278876384" duration="631000" />
       <workItem from="1756280252672" duration="1906000" />
       <workItem from="1762425144392" duration="596000" />
-      <workItem from="1765431886309" duration="3506000" />
+      <workItem from="1765431886309" duration="1229000" />
     </task>
     <task id="LOCAL-00001" summary="커밋테스트">
       <created>1756279393444</created>
@@ -189,14 +180,7 @@
       <option name="project" value="LOCAL" />
       <updated>1765433070646</updated>
     </task>
-    <task id="LOCAL-00003" summary="두번째 커밋">
-      <created>1765433285706</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1765433285706</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,8 +213,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="커밋테스트" />
     <MESSAGE value="첫번째 커밋" />
-    <MESSAGE value="두번째 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="두번째 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="첫번째 커밋" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="171" width="1092" height="740" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1765432616493">
@@ -281,17 +264,17 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="461" y="160" key="SettingsEditor/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1765432929864" />
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1765433388388">
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1765433110190">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1765433388388" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1765433110190" />
     <state x="754" y="293" key="chooseDestDirectoryDialog" timestamp="1765432597123">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="754" y="293" key="chooseDestDirectoryDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1765432597123" />
-    <state x="710" y="405" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1765433361227">
+    <state x="710" y="405" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1765432990548">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="710" y="405" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1765433361227" />
+    <state x="710" y="405" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1032/-1920.0.1920.1032@0.0.1920.1032" timestamp="1765432990548" />
   </component>
 </project>

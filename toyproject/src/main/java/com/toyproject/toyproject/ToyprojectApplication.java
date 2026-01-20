@@ -1,4 +1,4 @@
-package com.toyproject;
+package com.toyproject.toyproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
