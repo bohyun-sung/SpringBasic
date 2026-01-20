@@ -1,0 +1,27 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/toyproject
+    username: root
+    password: 123
+
+  #spring.jpa.hibernate.ddl-auto: 엔티티 객체를 만들면 알아서 엔티티에 해당하는 테이블이 만들어진다.
+  jpa:
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+      ddl-auto: none
+#spring.jpa.properties.hibernate.format_sql: Hibernate 실행 시 SQL 쿼리를 개행, 들여쓰기 등을 사용해 보기 쉽게 바꿔줌
+    properties:
+      hibernate:
+        format_sql: true
+
+    show-sql: true
+
+#      hibernate:
+#        jdbc:
+#          time_zone: UTC
+#        format_sql: true
+#        highlight_sql: true
+#        default_batch_fetch_size: 100
+#        generate_statistics: false
